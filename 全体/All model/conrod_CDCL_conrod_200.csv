@@ -1,0 +1,4 @@
+    LRGN[conrod]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -7,            3,      3.06399,       26.1544,       168.432,        -0.0652199,          0.248518,      26.0892,       168.68,     0.822836,      5.32005
+
