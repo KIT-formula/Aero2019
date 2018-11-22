@@ -1,0 +1,5 @@
+    LRGN[wing]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -3,            3,       1.5101,       13.8968,       67.1132,          0.542962,        -0.0464354,      14.4398,      67.0668,      2.93611,       13.637
+                3,            3,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
