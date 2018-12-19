@@ -1,4 +1,0 @@
-    LRGN[all],,,,,,,,,,
-            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
--5,5,20.7815,133.029,178.583,3.03561,-0.26748,136.065,178.315,1.73254,2.27052
-5,5,0,0,0,0,0,0,0,0,0
