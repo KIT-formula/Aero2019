@@ -1,0 +1,5 @@
+    LRGN[body]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -3,            3,      17.3902,       99.2557,       202.846,           2.78286,          -0.29113,      102.039,      202.555,      1.32816,      2.63651
+                3,            3,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
