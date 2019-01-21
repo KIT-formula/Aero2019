@@ -1,0 +1,10 @@
+    LRGN[body]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -3,            3,      17.8424,  7.67119e+007,  3.62892e+008,      2.00284e+006,           -196290, 7.87148e+007, 3.62695e+008,       882549, 4.06653e+006
+                3,            3,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
+    LRGN[wing]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -3,            3,      2.50967, -1.85679e+006,        366150,          -22368.4,           5770.81,-1.87915e+006,       371921,     -21069.1,      4169.98
+                3,            3,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
