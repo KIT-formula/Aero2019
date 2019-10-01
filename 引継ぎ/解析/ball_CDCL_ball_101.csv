@@ -1,0 +1,5 @@
+    LRGN[ball]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -3,            3,      4.51408,       26.7259,     0.0726973,           1.88411,       0.000156956,        28.61,    0.0728542,      0.34732,  0.000884437
+                3,            3,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
